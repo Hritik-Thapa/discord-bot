@@ -1,0 +1,17 @@
+[33mcommit 7827e586288ab6aa2b4d3ff2e5992f904b12d3c3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Hritik-Thapa <hritikthapa331@gmail.com>
+Date:   Sat May 4 09:06:44 2024 +0545
+
+    mongo connected and bot responds
+
+[33mcommit 7dd4119e77d775368d9ac349f62a1b166ac9e630[m
+Author: Hritik-Thapa <hritikthapa331@gmail.com>
+Date:   Sat May 4 09:01:16 2024 +0545
+
+    mongo added and bot responds
+
+[33mcommit f67b0784d05039f834b0c243479ed97c05bdb3d5[m
+Author: Hritik-Thapa <hritikthapa331@gmail.com>
+Date:   Sat May 4 08:56:54 2024 +0545
+
+    added mongo db that stores the the url provided when user sends create <url> message
